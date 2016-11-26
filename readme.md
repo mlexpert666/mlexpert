@@ -14,4 +14,5 @@
 由于脚本涉及内容较多，可能需要安装较多依赖程序，介意勿用
 
 脚本使用命令：
+
 wget -N --no-check-certificate https://github.com/mlexpert666/mlexpert/raw/master/basic.sh && bash basic.sh
